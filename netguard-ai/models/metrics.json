@@ -1,0 +1,7 @@
+{
+  "best_model": "Gradient Boosting (HistGB)",
+  "source": "Synthetic CICIDS-style flows (demo)",
+  "accuracy": 0.9073333333333333,
+  "weighted_f1": 0.9074226877664647,
+  "macro_f1": 0.9156820089444743
+}
